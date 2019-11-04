@@ -1,4 +1,4 @@
-<img src="https://github.com/danrovito/Pluralize.NET.Core/workflows/Main&20Workflow/badge.svg">
+![](https://github.com/actions/danrovito/workflows/.github/workflows/dotnetcore.yml/badge.svg)
 
 # What is it?
 This is a C# port of Blake Embrey's [pluralize](https://github.com/blakeembrey/pluralize) library which helps in pluralizing or singularizing any English word.
