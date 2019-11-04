@@ -1,8 +1,9 @@
 using CorePluralize.Tests;
+using Pluralize.NET.Core;
 using System;
 using Xunit;
 
-namespace Pluralize.NET.Core.Tests
+namespace CorePluralize.Tests
 {
 	public class PluralizerTests
     {

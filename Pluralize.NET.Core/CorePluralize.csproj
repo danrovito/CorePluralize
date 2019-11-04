@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
@@ -7,9 +7,9 @@
     <PackageVersion>1.0.0</PackageVersion>
     <Authors>Dan Rovito  (Forked from Blake Embrey, Ported by Sarath Kumar, .NET Core by Ricky Vega)</Authors>
     <NeutralLanguage>en</NeutralLanguage>
-    <PackageLicenseUrl>https://github.com/rvegajr/Pluralize.NET.Core/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl></PackageLicenseUrl>
     <Owners>Ricky Vega</Owners>
-    <PackageProjectUrl>https://github.com/danrovito/Pluralize.NET.Core</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/danrovito/CorePluralize</PackageProjectUrl>
     <Summary>Pluralize and singularize any word.</Summary>
     <Title>Pluralize.NET.Core</Title>
     <Description>This is a C# port of Blake Embrey's pluralize library which helps in pluralizing or singularizing any English word.  
@@ -25,6 +25,7 @@ pluralize
 pluralization</PackageTags>
     <Product>Core Pluralize</Product>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
