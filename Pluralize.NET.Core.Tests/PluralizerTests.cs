@@ -1,5 +1,5 @@
 using CorePluralize.Tests;
-using Pluralize.NET.Core;
+using CorePluralize;
 using System;
 using Xunit;
 
