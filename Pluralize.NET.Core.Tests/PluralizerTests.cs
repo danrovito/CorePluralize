@@ -1,3 +1,4 @@
+using CorePluralize.Tests;
 using System;
 using Xunit;
 
