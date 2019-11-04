@@ -23,3 +23,4 @@ var plural = new Pluralizer().Pluralize("Horse");
 
 # Licence
 [MIT](https://github.com/sarathkcm/Pluralize.NET/blob/master/LICENCE) - because the original project is MIT
+[MIT](https://github.com/danrovito/Pluralize.NET.Core/blob/master/LICENCE) - Updated License MIT
